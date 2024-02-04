@@ -1,0 +1,35 @@
+                              -|- My Personal Website -|-
+
+[1] Used Technologies
+  [A] HTML
+  [B] CSS (Including Normalize Library)
+  [C] JavaScript
+  [D] Swiper.js
+  [E] Font Awesome
+  [F] Ion Icon (If Needed)
+
+[2] Website Sections
+  [A] Header
+  [B] Landing
+  [C] Services
+  [D] About Me
+  [E] Why Choose Me
+  [F] Skills
+  [G] My Stats
+  [H] Timeline
+  [I] Portfolio
+  [J] Contact Me
+  [K] Footer
+
+[3] Website Features
+  [A] Animated Header Links On Load (T)
+  [B] Fixed Header On Scrolling (T)
+  [C] Toggle Mobile Menu (T)
+  [D] Animated Landing Content On Load (T) 
+  [E] Show Section Content On Scrolling (T)
+  [F] Flip The Service Box (T)
+  [G] Toggle About Section's Main Content (T)
+  [H] Auto Fill Skills Bars On Scrolling (T)
+  [I] Auto Count Stats On Scrolling (T)
+  [J] Create Projects Slider (T)
+  [K] Form Validation (T)
